@@ -162,7 +162,7 @@ const animationTimeline = () => {
       {
         scale: 3,
         opacity: 0,
-        rotation: -15,
+        rotation: 0,
         ease: Expo.easeOut,
       },
       0.2,

@@ -1,28 +1,28 @@
 <h1 align="center">
-    Valentine's Wish
+    Feliz San Valentín
 </h1>
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
+[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)  [![Traductor](https://img.shields.io/badge/traductor-rafaeldavidgg-darkgreen)](https://github.com/rafaeldavidgg)  
 
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [Verlo en vivo](https://rafaeldavidgg.github.io/FelizSanValentin/)
 
-## Make your own version :computer:
+## Crea tu propia versión :computer:
 
 :camera::camera::camera::camera::camera::camera::camera:
-*Start with Smile*:smile::smile:
+*Empieza con una sonrisa* :smile::smile:
 
-* Fork the repository
-* Open `customize.json` and replace name/wish-message/image with your own
-* Turn on GitHub pages for the repository (Settings > GitHub Pages)
-* Send the URL that you get at the above step to your friend
+* Haz un Fork del repositorio
+* Abre `customize.json` y reemplaza el nombre/mensaje/imagen con los tuyos
+* Activa GitHub Pages para el repositorio (Configuración > GitHub Pages)
+* Envía la URL que obtengas en el paso anterior a esa persona especial
 
 
-## Contributing
+## Contribuir
 
-If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
+Si tienes alguna idea para hacerlo más interesante, siéntete libre de enviar un PR o crear una issue para solicitar una funcionalidad.
 
-Stay happy and keep the people you care about happy. :)
+Sé feliz y haz feliz a la gente que te importa. :)
 
-#### OwnerShip
- The animations used in the Repository is created by Afiur Rahman Fahim(faahim).:smile:
+#### Autoría
+ Las animaciones usadas en el repositorio fueron creadas por Afiur Rahman Fahim (faahim). :smile:
